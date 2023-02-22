@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a44f746122281e24da2ff2f1a7aceafb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Suburban Flamingo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4a2c0d09ee1375747b8ff5ff48920ac7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
